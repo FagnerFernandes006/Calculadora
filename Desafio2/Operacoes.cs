@@ -4,9 +4,6 @@ namespace Desafio2
 {
     public class Operacoes
     {
-        public double valor1 { get; set; }
-        public double valor2 { get; set; }
-
         public void Adicao()
         {
             Console.Clear();

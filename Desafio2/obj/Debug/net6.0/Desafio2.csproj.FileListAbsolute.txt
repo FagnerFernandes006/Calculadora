@@ -13,3 +13,18 @@ C:\Users\Fagner Fernandes\source\repos\Desafio2\Desafio2\obj\Debug\net6.0\refint
 C:\Users\Fagner Fernandes\source\repos\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.pdb
 C:\Users\Fagner Fernandes\source\repos\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.genruntimeconfig.cache
 C:\Users\Fagner Fernandes\source\repos\Desafio2\Desafio2\obj\Debug\net6.0\ref\Desafio2.dll
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\bin\Debug\net6.0\Desafio2.exe
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\bin\Debug\net6.0\Desafio2.deps.json
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\bin\Debug\net6.0\Desafio2.runtimeconfig.json
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\bin\Debug\net6.0\Desafio2.dll
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\bin\Debug\net6.0\Desafio2.pdb
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.dll
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\refint\Desafio2.dll
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.pdb
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\Desafio2.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\OneDrive\Área de Trabalho\Calculadora\Desafio2\obj\Debug\net6.0\ref\Desafio2.dll
