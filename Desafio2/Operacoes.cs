@@ -4,7 +4,7 @@ namespace Desafio2
 {
     public class Operacoes
     {
-        public void Adicao()
+        public static void Adicao()
         {
             Console.Clear();
             Console.WriteLine("Operação Adição");
@@ -16,7 +16,7 @@ namespace Desafio2
             double resultado = n1 + n2;
             Console.WriteLine("Resultado: " + resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
-        public void Subtracao()
+        public static void Subtracao()
         {
             Console.Clear();
             Console.WriteLine("Operação Subtração");
@@ -28,7 +28,7 @@ namespace Desafio2
             double resultado = n1 - n2;
             Console.WriteLine("Resultado: " + resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
-        public void Multiplicacao()
+        public static void Multiplicacao()
         {
             Console.Clear();
             Console.WriteLine("Operação Multiplicação");
@@ -40,7 +40,7 @@ namespace Desafio2
             double resultado = n1 * n2;
             Console.WriteLine("Resultado: " + resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
-        public void Divisao()
+        public static void Divisao()
         {
             Console.Clear();
             Console.WriteLine("Operação Divisão");
@@ -52,7 +52,7 @@ namespace Desafio2
             double resultado = n1 / n2;
             Console.WriteLine("Resultado: " + resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
-        public void Raiz()
+        public static void Raiz()
         {
             Console.Clear();
             Console.WriteLine("Operação Raiz Quadrada");
@@ -62,7 +62,7 @@ namespace Desafio2
             double resultado = Math.Sqrt(n);
             Console.WriteLine("Resultado: " + resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
-        public void Potenciacao()
+        public static void Potenciacao()
         {
             Console.Clear();
             Console.WriteLine("Operação Potenciação");

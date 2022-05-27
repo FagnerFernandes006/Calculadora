@@ -6,8 +6,6 @@ namespace Desafio2
     {
         static void Main(string[] args)
         {
-            Operacoes operacoes = new Operacoes();
-
             Console.WriteLine("Qual operação você deseja fazer? ");
             Console.WriteLine("1 - Adição");
             Console.WriteLine("2 - Subtração");
@@ -21,27 +19,27 @@ namespace Desafio2
 
             if (op == 1)
             {
-                operacoes.Adicao();
+                Operacoes.Adicao();
             }
             else if (op == 2)
             {
-                operacoes.Subtracao();
+                Operacoes.Subtracao();
             }
             else if (op == 3)
             {
-                operacoes.Multiplicacao();
+                Operacoes.Multiplicacao();
             }
             else if (op == 4)
             {
-                operacoes.Divisao();
+                Operacoes.Divisao();
             }
             else if (op == 5)
             {
-                operacoes.Raiz();
+                Operacoes.Raiz();
             }
             else if (op == 6)
             {
-                operacoes.Potenciacao();
+                Operacoes.Potenciacao();
             }
             else Console.WriteLine("Programa encerrado");
         }
